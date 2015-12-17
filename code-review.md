@@ -67,11 +67,11 @@ JavaScript
   9. Script blocks are placed before the closing <body> tag
   10. Code has been run through JSLint (jslint.com) or JSHint (jshint.com)
 
-SEO
+SEO:
 
-  1. Uses a valid <title> element with a valid text node
-  2. Uses description meta data
-  3. Uses visible header tags
+1.	Uses a valid <title> element with a valid text node
+2.  Uses description meta data
+3.  Uses visible header tags
 
 Mobile
 
